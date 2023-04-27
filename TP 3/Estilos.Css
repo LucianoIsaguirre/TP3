@@ -1,0 +1,28 @@
+h1,h3,p {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+    
+    body {
+    background-color:orange;
+}
+
+hr {
+    background-color: gray;
+    height: 2px;
+    border: radius 20px;
+    border-color: black; 
+}
+
+h1 {
+    background-color:crimson;
+    border-radius: 20px;
+  }
+
+a {
+    font-size: 20px;
+}
